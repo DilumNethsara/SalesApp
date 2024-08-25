@@ -30,7 +30,7 @@ import java.util.ArrayList;
 public class AddCustomers extends AppCompatActivity {
 
     private TextView cusCode;
-    private EditText cusName, cusAddress, cusContact;
+    private EditText cusName, cusAddress, cusContact; //test
     private Spinner route;
     private Button createCus;
     ArrayList routeList;
